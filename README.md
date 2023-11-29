@@ -1,6 +1,8 @@
 # Disable-power-button
 
 Disables the power button for windows 10
+<br > Especially useful when you have annoying friends/class mates who like 
+<br > touching other peoples' devices...
 
 The menu :
 
