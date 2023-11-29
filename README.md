@@ -6,7 +6,8 @@ The menu :
 
 It prompts you with a choice where you either press 1 ( Shift + 1 ) or 2 ( Shift + 2 ) :
 
-when pressing 1 it will enable the power button functionality 
+when pressing 1 it will enable the power button functionality
+<br >
 when pressing 2 it will disable the power button functionality
 
 
