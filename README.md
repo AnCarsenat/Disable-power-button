@@ -21,8 +21,7 @@ when pressing 2 it will disable the power button functionality
 click the *power disabler* release :
 <img width="945" alt="image" src="https://github.com/AnCarsenat/Disable-power-button/assets/87574028/e06af736-4ed5-46f4-b3e2-96081555a026">
 
-<br >
-**STEP TWO**
+<br >**STEP TWO**
 click on *PowerDisablerV1.0-Windows.cmd* :
 <img width="946" alt="image" src="https://github.com/AnCarsenat/Disable-power-button/assets/87574028/7c3eb873-224e-4c75-8ef6-355be991d608">
 
