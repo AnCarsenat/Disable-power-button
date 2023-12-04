@@ -17,5 +17,8 @@ when pressing 2 it will disable the power button functionality
 
 **How to INSTALL**
 
+**STEP ONE**
+click the *power disabler* release :
+<img width="945" alt="image" src="https://github.com/AnCarsenat/Disable-power-button/assets/87574028/e06af736-4ed5-46f4-b3e2-96081555a026">
 
 
